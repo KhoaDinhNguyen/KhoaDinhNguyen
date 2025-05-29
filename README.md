@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **khoacode1305@gmail.com**
 
-- 📄 Learn about my experiences throughout [My Resume](https://drive.google.com/file/d/1ATc8ffDaachQaujMR-AEIr-MLqSmUOXT/view?usp=sharing)
+- 📄 Learn about my experiences throughout [My Porfolio](https://ngocdinhkhoanguyen.com/) [My Resume](https://drive.google.com/file/d/1ATc8ffDaachQaujMR-AEIr-MLqSmUOXT/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
